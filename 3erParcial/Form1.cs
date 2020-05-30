@@ -180,7 +180,7 @@ namespace _3erParcial
                 elegir_ciudad.Items.Add(cities_list[i].id.ToString());
             }
 
-            MessageBox.Show("Renglon eliminado\nPuede dar en mostrar informacion","actualizacion")
+            MessageBox.Show("Renglon eliminado\nPuede dar en mostrar informacion", "actualizacion");
 
         }
 
